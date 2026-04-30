@@ -1,1 +1,7 @@
+# Discord Token
 .env
+
+**/.DS_Store
+
+# Config file
+config.json
